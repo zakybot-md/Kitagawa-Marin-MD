@@ -2,7 +2,7 @@ Download Modules
 [Here](https://www.mediafire.com/file/wczapv7uipv7vfk/node_modules.zip/file)
 
 <p align="center">
-  <a href="https://github.com/Johannes2803"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+Fahri+Adison;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesian;In+Kabupaten+Indragiri+Hulu;Don't+bully+me+im+still+noob≧▽≦" alt="Asu">
+  <a href="https://github.com/Johannes2803"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+Johannes;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesian;In+Kabupaten+Medan+Deli;Don't+bully+me+im+still+noob≧▽≦" alt="Asu">
 </p>
 
 <p align="center">
@@ -184,7 +184,7 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ```
 
 # Thanks to
- [![Nurutomo](https://github.com/Nurutomo.png?size=150)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=250)](https://github.com/ariffb25) | [![F](https://github.com/Alfarqun.png?size=80)](https://github.com/Alfarqun) | [![Hyzerr](https://github.com/Hyzerr.png?size=250)](https://github.com/Hyzerr) | [![Johannes](https://github.com/Johannes2803.png?size=250)](https://github.com/Johannes)
+ [![Nurutomo](https://github.com/Nurutomo.png?size=150)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=250)](https://github.com/ariffb25) | [![F](https://github.com/Alfarqun.png?size=80)](https://github.com/Alfarqun) | [![Fahri](https://github.com/FahriAdison.png?size=250)](https://github.com/FahriAdison) | [![Johannes](https://github.com/Johannes2803.png?size=250)](https://github.com/Johannes)
 ----|----|----|----|----
 [Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [F](https://github.com/Alfarqun) | [Fahri](https://github.com/FahriAdison)
  Author | suhu | suhu | rekan
