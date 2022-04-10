@@ -2,7 +2,7 @@ Download Modules
 [Here](https://www.mediafire.com/file/wczapv7uipv7vfk/node_modules.zip/file)
 
 <p align="center">
-  <a href="https://github.com/FahriAdison"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+Fahri+Adison;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesian;In+Kabupaten+Indragiri+Hulu;Don't+bully+me+im+still+noob≧▽≦" alt="Asu">
+  <a href="https://github.com/Johannes2803"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+Fahri+Adison;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesian;In+Kabupaten+Indragiri+Hulu;Don't+bully+me+im+still+noob≧▽≦" alt="Asu">
 </p>
 
 <p align="center">
@@ -20,15 +20,15 @@ Download Modules
 <p align="center">
 </p>
 <p align="center">
-<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/FahriAdison/Marin-MD-V3?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/FahriAdison/Marin-MD-V3?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/FahriAdison/Marin-MD-V3?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/FahriAdison/Marin-MD-V3?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/FahriAdison/Marin-MD-V3?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/FahriAdison/Marin-MD-V3?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/FahriAdison/Marin-MD-V3?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Johannes280/Kitagawa-Marin-MD?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Johannes2803/Kitagawa-Marin-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Johannes2803/Kitagawa-Marin-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/Johannes2803/Kitagawa-Marin-MD?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/Johannes2803/Kitagawa-Marin-MD ?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/Johannes2803/Kitagawa-Marin-MD?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/Johannes2803/Kitagawa-Marin-MD ?label=PullRequest&color=success&style=flat-square"></a>
 <a href="https://www.youtube.com/channel/UC3zScvuQfMxqiTC5x_JUEng"><img src="https://img.shields.io/youtube/channel/subscribers/UC3zScvuQfMxqiTC5x_JUEng?style=social" /> <br>
-<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/FahriAdison/Marin-MD-V3?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Johannes2803/Kitagawa-Marin-MD ?label=PullRequest&color=red&style=flat-square"></a>
 </p>
   
 ------
@@ -63,7 +63,7 @@ Download Modules
   <h3 align="center">Recode By :</h3>
 <p align="center">
   </a href="https://github.com/FahriAdison"><img src="https://github.com/FahriAdison.png?size=128" height="128" 
-  </a href="https://github.com/FahriAdison"><img src="https://github.com/johannes2803.png?size=128" height="128" 
+  <a href="https://github.com/Johannes2803"><img src="https://github.com/Johannes2803.png?size=128" height="128" width="128" /></a>
 </p>
 
 ## How To Change Menu Display
@@ -135,7 +135,7 @@ let message = await prepareWAMessageMedia({ video: fs.readFileSync('./media/menu
 
 ```bash
 git clone https://github.com/Johannes2803/Kitagawa-Marin-MD
-cd Marin-MD-V3
+cd Kitagawa-Marin-MD 
 npm install
 npm update
 npm index
@@ -154,8 +154,8 @@ pkg install ffmpeg
 pkg install imagemagick
 pkg install yarn
 git clone https://github.com/Johannes2803/Kitagawa-Marin-MD
-cd Marin-MD-V3
-ekstrak lalu pasang module nya dan taruh di folder Marin-MD-V3
+cd Kitagawa-Marin-MD 
+ekstrak lalu pasang module nya dan taruh di folder Kitagawa-Marin-MD 
 mc
 ganti session
 node .
@@ -193,13 +193,12 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
  
 ### Github Stats 
 
-![Ra Github stat](https://github-readme-stats.vercel.app/api?username=FahriAdison&theme=midnight-purple&show_icons=true) 
+![Ra Github stat](https://github-readme-stats.vercel.app/api?username=Johannes2803&theme=midnight-purple&show_icons=true) 
 
-![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=FahriAdison&theme=monokai)
+![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=Johannes2803&theme=monokai)
 
-![Ra Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FahriAdison&theme=tokyonight)
+![Ra Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Johannes2803&theme=tokyonight)
 
 ### Repo Stats 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Marin-MD&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Ran-Bot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Johannes2803&repo=Mythia-Batford&theme=dark)
