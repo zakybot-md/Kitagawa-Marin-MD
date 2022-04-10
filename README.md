@@ -2,7 +2,7 @@ Download Modules
 [Here](https://www.mediafire.com/file/wczapv7uipv7vfk/node_modules.zip/file)
 
 <p align="center">
-  <a href="https://github.com/FahriAdison"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+Fahri+Adison;I+Learn+Html+And+Javascript;I+Am+15+Years+Old;I+live+In+Indonesian;In+Kabupaten+Indragiri+Hulu;Don't+bully+me+im+still+noob≧▽≦" alt="Asu">
+  <a href="https://github.com/FahriAdison"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+Fahri+Adison;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesian;In+Kabupaten+Indragiri+Hulu;Don't+bully+me+im+still+noob≧▽≦" alt="Asu">
 </p>
 
 <p align="center">
@@ -20,15 +20,15 @@ Download Modules
 <p align="center">
 </p>
 <p align="center">
-<a href="https://github.com/FahriAdison/Marin-MD-V3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/FahriAdison/Marin-MD-V3?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/FahriAdison/Marin-MD-V3/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/FahriAdison/Marin-MD-V3?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/FahriAdison/Marin-MD-V3/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/FahriAdison/Marin-MD-V3?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/FahriAdison/Marin-MD-V3/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/FahriAdison/Marin-MD-V3?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/FahriAdison/Marin-MD-V3/issues"><img title="Issues" src="https://img.shields.io/github/issues/FahriAdison/Marin-MD-V3?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/FahriAdison/Marin-MD-V3/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/FahriAdison/Marin-MD-V3?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/FahriAdison/Marin-MD-V3/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/FahriAdison/Marin-MD-V3?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/FahriAdison/Marin-MD-V3?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/FahriAdison/Marin-MD-V3?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/FahriAdison/Marin-MD-V3?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/FahriAdison/Marin-MD-V3?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/FahriAdison/Marin-MD-V3?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/FahriAdison/Marin-MD-V3?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/FahriAdison/Marin-MD-V3?label=PullRequest&color=success&style=flat-square"></a>
 <a href="https://www.youtube.com/channel/UC3zScvuQfMxqiTC5x_JUEng"><img src="https://img.shields.io/youtube/channel/subscribers/UC3zScvuQfMxqiTC5x_JUEng?style=social" /> <br>
-<a href="https://github.com/FahriAdison/Marin-MD-V3/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/FahriAdison/Marin-MD-V3?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/FahriAdison/Marin-MD-V3?label=PullRequest&color=red&style=flat-square"></a>
 </p>
   
 ------
@@ -63,6 +63,7 @@ Download Modules
   <h3 align="center">Recode By :</h3>
 <p align="center">
   </a href="https://github.com/FahriAdison"><img src="https://github.com/FahriAdison.png?size=128" height="128" 
+  </a href="https://github.com/FahriAdison"><img src="https://github.com/johannes2803.png?size=128" height="128" 
 </p>
 
 ## How To Change Menu Display
@@ -133,7 +134,7 @@ let message = await prepareWAMessageMedia({ video: fs.readFileSync('./media/menu
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/FahriAdison/Marin-MD-V3
+git clone https://github.com/Johannes2803/Kitagawa-Marin-MD
 cd Marin-MD-V3
 npm install
 npm update
@@ -152,7 +153,7 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
 pkg install yarn
-git clone https://github.com/FahriAdison/Marin-MD-V3
+git clone https://github.com/Johannes2803/Kitagawa-Marin-MD
 cd Marin-MD-V3
 ekstrak lalu pasang module nya dan taruh di folder Marin-MD-V3
 mc
@@ -185,8 +186,8 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 # Thanks to
  [![Nurutomo](https://github.com/Nurutomo.png?size=150)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=250)](https://github.com/ariffb25) | [![F](https://github.com/Alfarqun.png?size=80)](https://github.com/Alfarqun) | [![Hyzerr](https://github.com/Hyzerr.png?size=250)](https://github.com/Hyzerr) | [![Johannes](https://github.com/Johannes2803.png?size=250)](https://github.com/Johannes)
 ----|----|----|----|----
-[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [F](https://github.com/Alfarqun) | [Hyzerr](https://github.com/Hyzerr) | [Johannes](https://github.com/Johannes2803)
- Author | suhu | suhu | rekan | Ny guru
+[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [F](https://github.com/Alfarqun) | [Fahri](https://github.com/FahriAdison)
+ Author | suhu | suhu | rekan
  
 ------
  
